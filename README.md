@@ -4,7 +4,7 @@ Meu nome é Eric Souza
 
 -  Estou estudando na [Alura](https://www.alura.com.br)
 -  Estou me desenvolvendo na liguagem JavaScript
--  Utilizo esse espaço paara minha organização e compartilhamneto dos meus projetos desenvolvidos
+-  Utilizo esse espaço para minha organização e compartilhamneto dos meus projetos desenvolvidos
 
 -  ### Você entrar em contato comigo
 
